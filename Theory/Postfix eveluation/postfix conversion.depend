@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1534829938 source:f:\programs\postfix conversion\main.cpp
+	<iostream>
+	<math.h>
+
